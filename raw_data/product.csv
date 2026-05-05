@@ -1,0 +1,51 @@
+prod_key,prod_name,vol,wgt,brand_name,status_code,status_code_name,category_key,category_name,subcategory_key,subcategory_name
+1,FreshFarm Chips Develop,4.31,0.26,DailyGood,1,Active,2,Snacks,4,Chips
+2,TasteKing Yogurt Series,1.15,0.44,TasteKing,1,Active,3,Dairy,9,Yogurt
+3,OrganicLife Cookies Gun,1.03,0.34,OrganicLife,1,Active,2,Snacks,5,Cookies
+4,OrganicLife Cheese Democrat,2.39,2.20,QuickBite,1,Active,3,Dairy,8,Cheese
+5,ValueMart Juices Right,4.02,0.37,DailyGood,1,Active,1,Beverages,2,Juices
+6,TasteKing Nuts Protect,0.79,0.59,TasteKing,1,Active,2,Snacks,6,Nuts
+7,TasteKing Chips Tonight,4.06,2.58,QuickBite,1,Active,2,Snacks,4,Chips
+8,FreshFarm Water Everything,4.85,2.78,DailyGood,1,Active,1,Beverages,3,Water
+9,TasteKing Cookies Mouth,2.46,2.60,FreshFarm,1,Active,2,Snacks,5,Cookies
+10,FreshFarm Cookies Middle,4.93,0.83,TasteKing,1,Active,2,Snacks,5,Cookies
+11,TasteKing Cheese Enter,0.86,0.93,FreshFarm,1,Active,3,Dairy,8,Cheese
+12,FreshFarm Vegetables Western,3.77,0.22,TasteKing,1,Active,5,Frozen Foods,15,Vegetables
+13,NaturePlus Vegetables Whatever,0.38,1.55,NaturePlus,1,Active,5,Frozen Foods,15,Vegetables
+14,QuickBite Water Throughout,3.41,0.74,QuickBite,1,Active,1,Beverages,3,Water
+15,FreshFarm Meals Approach,3.13,1.29,ValueMart,1,Active,5,Frozen Foods,13,Meals
+16,ValueMart Milk Best,1.27,1.22,PrimePick,1,Active,3,Dairy,7,Milk
+17,QuickBite Cakes Protect,0.15,1.88,QuickBite,1,Active,4,Bakery,11,Cakes
+18,DailyGood Water Land,2.58,0.44,ValueMart,1,Active,1,Beverages,3,Water
+19,ValueMart Soft Drinks Themselves,1.50,1.34,PrimePick,1,Active,1,Beverages,1,Soft Drinks
+20,FreshFarm Vegetables Factor,3.37,1.69,QuickBite,1,Active,5,Frozen Foods,15,Vegetables
+21,QuickBite Cookies Another,4.46,2.24,NaturePlus,1,Active,2,Snacks,5,Cookies
+22,DailyGood Cheese About,3.62,0.65,PrimePick,1,Active,3,Dairy,8,Cheese
+23,PrimePick Ice Cream Goal,4.54,2.55,QuickBite,1,Active,5,Frozen Foods,14,Ice Cream
+24,FreshFarm Cakes Spend,0.12,2.32,PrimePick,1,Active,4,Bakery,11,Cakes
+25,TasteKing Nuts Case,2.80,1.31,FreshFarm,1,Active,2,Snacks,6,Nuts
+26,NaturePlus Soft Drinks Public,2.77,2.51,NaturePlus,1,Active,1,Beverages,1,Soft Drinks
+27,FreshFarm Bread Everybody,1.61,2.70,FreshFarm,1,Active,4,Bakery,10,Bread
+28,DailyGood Milk Color,3.37,1.09,OrganicLife,1,Active,3,Dairy,7,Milk
+29,NaturePlus Vegetables Site,4.64,0.75,NaturePlus,1,Active,5,Frozen Foods,15,Vegetables
+30,FreshFarm Cookies Letter,0.98,2.78,OrganicLife,1,Active,2,Snacks,5,Cookies
+31,NaturePlus Cookies Ok,3.96,0.37,FreshFarm,1,Active,2,Snacks,5,Cookies
+32,DailyGood Bread Season,4.10,1.41,PrimePick,1,Active,4,Bakery,10,Bread
+33,FreshFarm Chips Late,3.33,1.23,PrimePick,1,Active,2,Snacks,4,Chips
+34,ValueMart Juices Option,3.24,1.23,ValueMart,1,Active,1,Beverages,2,Juices
+35,PrimePick Soft Drinks Act,0.97,2.89,PrimePick,1,Active,1,Beverages,1,Soft Drinks
+36,OrganicLife Soft Drinks Brother,1.79,2.37,OrganicLife,1,Active,1,Beverages,1,Soft Drinks
+37,QuickBite Vegetables Bag,1.99,1.75,PrimePick,1,Active,5,Frozen Foods,15,Vegetables
+38,OrganicLife Water You,0.11,2.78,DailyGood,1,Active,1,Beverages,3,Water
+39,QuickBite Cheese Use,4.75,2.77,ValueMart,1,Active,3,Dairy,8,Cheese
+40,PrimePick Water Rock,2.58,2.02,ValueMart,1,Active,1,Beverages,3,Water
+41,PrimePick Pastries Well,2.82,0.62,OrganicLife,1,Active,4,Bakery,12,Pastries
+42,PrimePick Nuts Church,2.09,2.51,PrimePick,1,Active,2,Snacks,6,Nuts
+43,OrganicLife Milk Offer,3.95,1.84,ValueMart,1,Active,3,Dairy,7,Milk
+44,TasteKing Cakes Also,3.41,1.56,NaturePlus,1,Active,4,Bakery,11,Cakes
+45,ValueMart Juices They,0.56,2.86,DailyGood,1,Active,1,Beverages,2,Juices
+46,DailyGood Milk Hope,0.82,0.19,TasteKing,1,Active,3,Dairy,7,Milk
+47,TasteKing Meals Pass,2.13,1.91,DailyGood,1,Active,5,Frozen Foods,13,Meals
+48,OrganicLife Cakes Old,1.30,1.99,FreshFarm,1,Active,4,Bakery,11,Cakes
+49,DailyGood Juices Choose,0.96,2.88,TasteKing,1,Active,1,Beverages,2,Juices
+50,DailyGood Water Law,4.60,0.41,NaturePlus,1,Active,1,Beverages,3,Water

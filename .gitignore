@@ -1,0 +1,32 @@
+# dbt
+dbt_transform/target/
+dbt_transform/logs/
+logs/
+
+# Terraform
+infrastructure/.terraform/
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
+
+# Temp files
+infrastructure/glue-logs.txt
+infrastructure/crawler-config.json
+infrastructure/crawler-targets.json
+infrastructure/glue-arguments.json
+infrastructure/glue-command.json
+infrastructure/glue-database.json
+infrastructure/glue-update.json
+infrastructure/emr-trust-policy.json
+infrastructure/glue-trust-policy.json
+
+# Raw data (too large for GitHub)
+raw_data/inventory.csv
+raw_data/sales.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+write_dbt_models.py
+models/

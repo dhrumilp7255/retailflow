@@ -1,0 +1,21 @@
+store_key,store_num,store_desc,addr,city,region,cntry_cd,cntry_nm,postal_zip_cd,prov_state_desc,prov_state_cd,store_type_cd,store_type_desc,frnchs_flg,store_size,market_key,market_name,submarket_key,submarket_name,latitude,longitude
+1,1001,Fowler Supermarket,433 Jill Springs,New Roberttown,South,US,United States,12781,Indiana,IN,SM,Supermarket,Y,LARGE,3,Midwest,5,Great Lakes,29.099807,-80.559935
+2,1002,Wagner Convenience,386 Shane Harbors,Port Lindachester,North,US,United States,45098,Louisiana,FL,CV,Convenience,Y,SMALL,4,West,7,Pacific,34.306436,-88.878876
+3,1003,Lewis Convenience,16155 Roman Stream Suite 816,New Kellystad,West,CA,Canada,76175,Illinois,VT,CV,Convenience,N,SMALL,4,West,7,Pacific,55.352295,-115.420441
+4,1004,Jones Hypermarket,1316 Chavez Village,Franciscostad,South,AU,Australia,27961,Texas,KY,HY,Hypermarket,N,SMALL,3,Midwest,5,Great Lakes,28.709834,-119.197017
+5,1005,Miles Convenience,283 Steven Groves,Lake Mark,West,GB,United Kingdom,07832,Iowa,GU,CV,Convenience,Y,MEDIUM,3,Midwest,5,Great Lakes,28.152008,-107.409303
+6,1006,Johnson Convenience,4139 Lewis Parks Suite 724,East Julie,North,GB,United Kingdom,71145,Kentucky,WA,CV,Convenience,Y,MEDIUM,2,Southeast,3,Deep South,64.408861,-73.680937
+7,1007,Richards Hypermarket,3287 Katelyn Wall Apt. 226,South Patrickmouth,East,US,United States,69853,Kentucky,OH,HY,Hypermarket,Y,MEDIUM,3,Midwest,6,Plains,39.210828,-84.789490
+8,1008,Valencia Convenience,184 Rodriguez Mews,South Aaron,South,US,United States,95147,Washington,KS,CV,Convenience,N,MEDIUM,2,Southeast,3,Deep South,35.797913,-69.476529
+9,1009,Stanton Convenience,148 Eric Track,New Stephanie,South,CA,Canada,70015,Alabama,PA,CV,Convenience,Y,MEDIUM,3,Midwest,5,Great Lakes,41.046591,-121.028684
+10,1010,Nguyen Supermarket,54303 Christopher Oval,Port Amandaberg,West,GB,United Kingdom,17329,Texas,NJ,SM,Supermarket,Y,MEDIUM,4,West,8,Mountain,30.585213,-80.300661
+11,1011,Arroyo Convenience,8963 Jennifer Locks,Samuelhaven,East,GB,United Kingdom,59678,Delaware,IA,CV,Convenience,Y,SMALL,4,West,8,Mountain,45.381052,-119.545435
+12,1012,Walker Supermarket,98393 Chad Roads Apt. 310,Chadbury,West,US,United States,37001,Texas,NM,SM,Supermarket,Y,MEDIUM,2,Southeast,3,Deep South,40.264771,-65.232717
+13,1013,Lewis Convenience,997 Kristen Valley,Leeville,Central,GB,United Kingdom,86875,Nevada,MI,CV,Convenience,N,LARGE,1,Northeast,1,New England,38.607019,-107.389992
+14,1014,Henderson Hypermarket,010 Chandler Union Apt. 333,Taylorburgh,Central,CA,Canada,37010,New Jersey,IA,HY,Hypermarket,Y,LARGE,1,Northeast,2,Mid-Atlantic,61.505114,-72.768886
+15,1015,Baxter Convenience,8108 Tanya Terrace,East Richard,East,GB,United Kingdom,63593,Indiana,VI,CV,Convenience,Y,LARGE,2,Southeast,3,Deep South,63.139990,-69.653955
+16,1016,Morales Convenience,60647 Henderson Street,Mooreport,North,US,United States,29035,Arkansas,OR,CV,Convenience,Y,MEDIUM,3,Midwest,6,Plains,60.148875,-75.100068
+17,1017,Fitzgerald Supermarket,500 Shaw Walk,North Susan,Central,GB,United Kingdom,11001,Idaho,CA,SM,Supermarket,Y,SMALL,1,Northeast,1,New England,54.276304,-76.038605
+18,1018,Larson Supermarket,1939 Christine Manor,Sarahborough,East,CA,Canada,88283,Virginia,MD,SM,Supermarket,N,SMALL,4,West,7,Pacific,62.156540,-79.684088
+19,1019,Allen Convenience,47510 Howell Port Apt. 183,Davidstad,East,CA,Canada,09517,Kansas,MN,CV,Convenience,N,LARGE,3,Midwest,6,Plains,43.059446,-110.125663
+20,1020,Mitchell Hypermarket,498 Elizabeth Plaza Suite 124,North Juliaberg,Central,US,United States,36198,Maine,PA,HY,Hypermarket,Y,SMALL,1,Northeast,1,New England,27.839723,-87.133823
