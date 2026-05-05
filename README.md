@@ -135,7 +135,7 @@ retail-etl-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/retail-etl-pipeline.git](https://github.com/dhrumilp7255/retailflow.git)
+git clone https://github.com/YOUR_USERNAME/retail-etl-pipeline.git
 cd retail-etl-pipeline
 ```
 
